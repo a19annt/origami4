@@ -1,0 +1,22 @@
+.item{
+    position: relative;
+}
+
+.item a{
+    
+    padding-left: 20px;
+}
+
+
+body{
+    background-color: rgb(248, 204, 226);
+}
+
+*{
+    border: solid;
+}
+
+
+h1{
+    color : darkgreen;
+}
